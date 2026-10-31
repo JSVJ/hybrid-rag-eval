@@ -1,0 +1,44 @@
+[
+  {
+    "doc_id": "attention",
+    "title": "Attention Is All You Need",
+    "url": "https://arxiv.org/pdf/1706.03762",
+    "license": "VERIFY on arXiv abs page",
+    "sha256": "bdfaa68d8984f0dc02beaca527b76f207d99b666d31d1da728ee0728182df697"
+  },
+  {
+    "doc_id": "rag",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "url": "https://arxiv.org/pdf/2005.11401",
+    "license": "VERIFY on arXiv abs page",
+    "sha256": "23e3249e9a1e75418d82efecab0ea8c4d033b89c93742f63208d47ce01f21233"
+  },
+  {
+    "doc_id": "bert",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers",
+    "url": "https://arxiv.org/pdf/1810.04805",
+    "license": "VERIFY on arXiv abs page",
+    "sha256": "5692a5514787a8c6727b4ff3b726a3385798bc68e12138d1d4af83947e2acf6e"
+  },
+  {
+    "doc_id": "cot",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in LLMs",
+    "url": "https://arxiv.org/pdf/2201.11903",
+    "license": "VERIFY on arXiv abs page",
+    "sha256": "7d9f878c23b460e4566aa4ec9201b1abfb3b8faefb2b1356e411cb90fef72a12"
+  },
+  {
+    "doc_id": "lost_in_middle",
+    "title": "Lost in the Middle: How Language Models Use Long Contexts",
+    "url": "https://arxiv.org/pdf/2307.03172",
+    "license": "VERIFY on arXiv abs page",
+    "sha256": "653b29619eae2ae4b361d7bdcdc06db4bedcb1b0eabe31814036beca8c1af0b1"
+  },
+  {
+    "doc_id": "nist_ai_rmf",
+    "title": "NIST AI Risk Management Framework (AI 100-1)",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+    "license": "VERIFY (US government work)",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1"
+  }
+]

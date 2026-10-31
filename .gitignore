@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# source PDFs are downloaded by src/download.py, not committed
+data/raw/
